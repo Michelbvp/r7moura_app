@@ -36,6 +36,6 @@ Aplicação web desenvolvida em **Streamlit** e **Supabase**, projetada para a g
 
 ### 1. Clonar o Repositório e Instalar Dependências
 ```bash
-git clone <url-do-seu-repositorio>
+git clone <https://github.com/Michelbvp/r7moura_app>
 cd <nome-da-pasta-do-projeto>
 pip install -r requirements.txt
