@@ -1,0 +1,21 @@
+# --- SEGREDOS E CREDENCIAIS (CRÍTICO) ---
+.streamlit/secrets.toml
+secrets.toml
+.env
+*.env
+
+# --- DEPENDÊNCIAS E AMBIENTES VIRTUAIS ---
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- ARQUIVOS DE SISTEMA E CACHE DO EDITOR ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
